@@ -9,8 +9,8 @@ class addition
       System.out.println("Enter two integers to calculate their sum");
       Scanner in = new Scanner(System.in);
      
-      x = in.nextInt();
-      y = in.nextInt();
+      x = 10;
+      y = 5;
       z = x + y;
      
       System.out.println("Sum of the integers = " + z);
